@@ -24,8 +24,7 @@ if __name__ == '__main__':
     print(np.dot(a=a_matrix, b=b_matrix))
     
     
-    
-        
+    a = 'hola'.upper()
         
         
     
